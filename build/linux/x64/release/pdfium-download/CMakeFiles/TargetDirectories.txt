@@ -1,3 +1,0 @@
-/home/jonapt/orbital_factus/build/linux/x64/release/pdfium-download/CMakeFiles/pdfium-download.dir
-/home/jonapt/orbital_factus/build/linux/x64/release/pdfium-download/CMakeFiles/edit_cache.dir
-/home/jonapt/orbital_factus/build/linux/x64/release/pdfium-download/CMakeFiles/rebuild_cache.dir
